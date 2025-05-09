@@ -29,10 +29,6 @@ Pasos para ejecutar el servidor:
    > python3 -m venv mi_entorno
    > source mi_entorno/bin/activate
 
-   Windows:
-   > python -m venv mi_entorno
-   > .\mi_entorno\Scripts\activate
-
 3. Instalar Flask:
    > pip install flask
 
